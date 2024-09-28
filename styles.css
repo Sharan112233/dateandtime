@@ -1,0 +1,58 @@
+#box {
+
+    margin: auto;
+    border: 2px solid rgb(16, 16, 2);
+    background-color: rgb(64, 205, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+
+}
+
+.b {
+
+    font-size: 50px;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
